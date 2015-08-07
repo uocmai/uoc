@@ -1,2 +1,1 @@
-this is pos
-this is post ka ka
+<?php echo 'test ka ka'; ?>
